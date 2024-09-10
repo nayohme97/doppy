@@ -1,0 +1,13 @@
+body{
+    background-color: #7c526d;
+    color: rgb(255, 255, 255);
+    background-image: url("https://images6.alphacoders.com/699/699668.jpg");
+    background-size: cover;
+}
+
+#myfoodgrr {
+    margin-left: 500px;
+    /* float: right;
+    margin-top: auto; */
+    height: 250px;
+}
